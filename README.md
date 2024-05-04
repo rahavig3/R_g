@@ -1,2 +1,2 @@
 # R_g
-Third Year Project: Convultional neural network for identifying images of sea turtles
+This file provides the blue print of how the three neural networks was set up. 
